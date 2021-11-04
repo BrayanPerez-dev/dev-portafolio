@@ -39,6 +39,6 @@ export const projects = [
     desc: "Thinking About React with hooks and material-ui",
     github: "https://github.com/BrayanPerez-dev/thinking-about-react",
     demo: "https://react-ybdtny.stackblitz.io",
-    image: "https://imagizer.imageshack.com/img923/7807/FQCCQw.png",
+    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1635986689/Captura_de_pantalla_2170_mndrzb.png",
   }
 ]
