@@ -38,7 +38,7 @@ export const projects = [
     title: "Thinking About React",
     desc: "Thinking About React with hooks and material-ui",
     github: "https://github.com/BrayanPerez-dev/thinking-about-react",
-    demo: "https://react-g6mmmv.stackblitz.io/",
+    demo: "https://react-ybdtny.stackblitz.io",
     image: "https://imagizer.imageshack.com/img923/7807/FQCCQw.png",
   }
 ]
