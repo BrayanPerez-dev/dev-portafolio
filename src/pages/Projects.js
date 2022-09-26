@@ -52,6 +52,7 @@ const Wrapper = styled.div`
 
 .projects {
   background-image: var(--background-image);
+  height: 100vh;
 }
 
 .projects h1 {

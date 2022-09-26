@@ -19,14 +19,6 @@ export const projects = [
   },
   {
     id: uuidv4(),
-    title: "Wheather challenge",
-    desc: "challenge about use a api with current values of citys weather around the world,context api and and desing",
-    github: "https://github.com/BrayanPerez-dev/weather-app",
-    demo: "https://react-context-weather-app.netlify.app/",
-    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1637963803/proyects/zTGqJk_zmzavk.png",
-  },
-  {
-    id: uuidv4(),
     title: "React Firebase Chat",
     desc: "React context ,chat app with firebase authentication and bootstrap ",
     github: "https://github.com/BrayanPerez-dev/React-Firebase-Chat",
