@@ -20,10 +20,10 @@ export const projects = [
   {
     id: uuidv4(),
     title: "React Firebase Chat",
-    desc: "React context ,chat app with firebase authentication and bootstrap ",
+    desc: "React with context api ,chat app with firebase db and authentication and bootstrap ",
     github: "https://github.com/BrayanPerez-dev/React-Firebase-Chat",
     demo: "https://react-rffj2x.stackblitz.io/",
-    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1637963802/proyects/5oAsxB_kfcdxk.png",
+    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1664249299/proyects/Captura_de_pantalla_199_fddhuh.png",
   },
   {
     id: uuidv4(),
@@ -31,14 +31,22 @@ export const projects = [
     desc: "Thinking About React with hooks and material-ui",
     github: "https://github.com/BrayanPerez-dev/thinking-about-react",
     demo: "https://react-ybdtny.stackblitz.io/",
-    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1635986689/proyects/Captura_de_pantalla_2170_mndrzb.png",
+    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1664249186/proyects/Captura_de_pantalla_200_hakgwy.png",
   },
   {
     id: uuidv4(),
     title: "Quotes Generator",
-    desc: "another challenge  antd desing and styled componets in react",
+    desc: "A quote generator app with  antd desing and styled componets in react",
     github: "https://github.com/BrayanPerez-dev/quote-generator",
     demo: "https://notorious-quotes-generator.netlify.app/",
-    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1638222645/proyects/Captura_de_pantalla_2172_d37sgu.png"
+    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1664249060/proyects/Captura_de_pantalla_201_cjwgpz.png"
+  },
+  {
+    id: uuidv4(),
+    title: "Image Uploader",
+    desc: "An Image Uploader applicationa challenge antd desing and styled componets with react typescript",
+    github: "https://github.com/BrayanPerez-dev/image-uploader.git",
+    demo: "https://image-uploader-lilac.vercel.app/",
+    image: "https://res.cloudinary.com/dq6ccwero/image/upload/v1664248928/proyects/Captura_de_pantalla_202_vpzz9t.png"
   }
 ]
